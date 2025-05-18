@@ -18,5 +18,4 @@ rl.question("Digite um número inteiro: ", function(input) {
       console.log(`${numero} é ímpar.`);
     }
   }
-
 });
